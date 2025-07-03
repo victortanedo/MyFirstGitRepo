@@ -3,3 +3,10 @@ Console.ForegroundColor = ConsoleColor.Cyan;
 
 Console.WriteLine("Hello, World!");
 
+int a = 10;
+
+if (a > 10)
+{
+    Console.WriteLine(10);
+}
+
